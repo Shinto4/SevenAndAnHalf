@@ -2,8 +2,8 @@ from random import *
 from time import *
 
 
-cards = ["coins", "clubs", "swords", "cups"]
-value = ["Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten"]
+cards = ["coins🪙", "clubs🪵", "swords⚔️", "cups🏆"]
+value = ["Ace(1)", "Two(2)", "Three(3)", "Four(4)", "Five(5)", "Six(6)", "Seven(7)", "Knave(8)", "Knight(9)", "King(10)"]
 a = ""
 dealer = 0
 player = 0
